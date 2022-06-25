@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+p {
+  padding: 0.4rem;
+  border-radius: 20px;
+  box-shadow: 0 0 5px rgba(128, 128, 128, 0.403);
+}
+
+.wrapper {
+  margin: 0.5rem 0 0.5rem 0;
+  padding: 0.4rem;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 255, 0.667);
+}
+
+.dark {
+  color: white;
+  border-radius: 10px;
+  background-color: black;
+}
+
+.highlight-bold {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.highlight-color {
+  color: red;
+}
